@@ -3,13 +3,13 @@
 
 ---
 
-## 💡 About Me  
+## 👨‍💻 About Me  
 🚀 Currently working as a **Senior Software Developer**  
-🎯 Specialized in **Full-Stack Development**, with strong skills in both **Frontend** and **Backend**  
+🎯 Familiar with **Agile Development**, Daily Scrum, and Team Collaboration. 
 🛠 Experienced in **Infrastructure & DevOps**, deploying scalable systems and CI/CD pipelines  
   
 👶 Started coding since elementary school (Visual Basic era!)  
-💻 Grew up with code, now crafting modern applications with **React, Next.js, Node.js, and Docker**  
+💻 Grew up with code, now crafting modern applications with **Angular, NestJs, React, Next.js, Node.js, and Docker**  
 📈 4 years of hands-on experience in the industry, delivering production-grade solutions  
 🎉 Age: 25 (Still young and hungry to learn!)
 
@@ -26,7 +26,7 @@
 - 🚀 Angular (Production-grade, Enterprise Apps)  
 - ⚡️ Vite.js, React.js, Next.js  
 - 🎨 TailwindCSS, Styled Components  
-- 📦 Redux, Zustand, Context API
+- 📦 Rxjs, Redux, Zustand, Context API
 - 📱 Responsive Web Design, SEO Optimization  
 
 

@@ -17,10 +17,14 @@
 
 ## 🛠️ Tech Stack & Skills  
 ### Frontend  
-- ⚛️ React.js, Next.js  
-- ⚡️ Vite.js, Vue.js  
+- <p align="left">
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+</p> Angular (Production-grade, Enterprise Apps)  
+- ⚡️ Vite.js, React.js, Next.js  
 - 🎨 TailwindCSS, Styled Components  
-- 📦 Redux, Zustand, Context API  
+- 📦 Redux, Zustand, Context API
+- 📱 Responsive Web Design, SEO Optimization  
+
 
 ### Backend  
 - 🔧 Node.js, Express, NestJS  
@@ -32,8 +36,14 @@
 - 🐳 Docker, Docker Compose  
 - ☁️ Vercel, Netlify, DigitalOcean  
 - 🔧 Nginx, PM2  
-- 🔨 GitHub Actions, CI/CD Pipelines  
-- 🏗 Cloud Deployment, Scaling, Domain & DNS Management  
+- 🔨 GitHub Actions, CI/CD Pipelines
+- 🏗 Cloud Deployment, Scaling, Domain & DNS Management , SSL & HTTPS Deployment  
+
+### Workflow & Team  
+- ✅ Agile Development (Daily Scrum, Sprint Planning, Review, Retrospective)  
+- 🔨 Jira, Trello, GitHub Projects  
+- 📄 Documentation & Code Reviews  
+- 💬 Strong Communication & Problem Solving  
 
 ---
 
@@ -47,22 +57,12 @@ A lightweight starter project for full-stack apps with Docker + GitHub Actions.
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharitm&show_icons=true&theme=radical" alt="Tharit's github stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tharitm&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 ## 📫 Get In Touch  
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-- ✉️ Email: your.email@example.com  
+- 🔗 [LinkedIn]  *(coming soon!)*  
+- ✉️ Email: gorgegld123@gmail.com
 - 🌐 [Portfolio](https://yourportfolio.com) *(coming soon!)*  
-- ☕ Let's talk about tech, code, and building awesome stuff!
+
 
 ---
 

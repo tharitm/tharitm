@@ -16,10 +16,14 @@
 ---
 
 ## 🛠️ Tech Stack & Skills  
+
+- **Frontend**: ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+- **Backend**: ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+- **Database**: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- **DevOps**: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
 ### Frontend  
-- <p align="left">
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-</p> Angular (Production-grade, Enterprise Apps)  
+- 🚀 Angular (Production-grade, Enterprise Apps)  
 - ⚡️ Vite.js, React.js, Next.js  
 - 🎨 TailwindCSS, Styled Components  
 - 📦 Redux, Zustand, Context API
@@ -29,7 +33,7 @@
 ### Backend  
 - 🔧 Node.js, Express, NestJS  
 - 🔥 REST API, GraphQL  
-- 🗄 MongoDB, PostgreSQL, MySQL  
+- 🗄 MongoDB, PostgreSQL, MySQL , Type ORM
 - 🛡 Authentication (JWT, OAuth)
 
 ### DevOps / Infrastructure  

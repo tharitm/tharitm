@@ -52,12 +52,21 @@
 ---
 
 ## ✨ Featured Projects  
-👉 **[Landing Page Boilerplate](https://your-demo-link.com)**  
-Ready-to-use SPA landing page template with Vite.js & TailwindCSS.  
-👉 **[Next.js Portfolio Template](https://your-portfolio-link.com)**  
-Clean, fast, SEO optimized Portfolio Starter Kit.  
-👉 **[CI/CD Docker Starter](https://your-demo-link.com)**  
-A lightweight starter project for full-stack apps with Docker + GitHub Actions.
+## ✨ Featured Projects
+
+👉 **[Excuse of the Day](https://tharit.dev/excuse-for-today)**  
+เว็บสุ่มข้ออ้างสุดเนียนปั่นๆ
+เหมาะกับทุกสถานการณ์ทั้งเบี้ยวนัด ลางาน และตื่นสาย 
+
+👉 **[Bill Share](https://tharit.dev/bill-share)**  
+เว็บหารบิลอาหารแบบง่าย ๆ สำหรับกลุ่มเพื่อน 🍱👥  
+กดเลือกเมนู – เลือกคน – ใส่เมนู ใส่ราคา - เสร็จเลย! 
+ปล. มีสรุปยอดให้ จะได้หารลงตัว
+
+👉 **[tharit.dev](https://tharit.dev)**  
+Landing Page รวมโปรเจกต์สนุก ๆ  
+และแอพทดลองต่าง ๆ ที่สร้างขึ้นเพื่อความมันส์และเพื่อพัฒนาสกิลเรื่อยๆครับ 🤓
+
 
 ---
 

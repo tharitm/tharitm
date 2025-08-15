@@ -51,14 +51,13 @@
 
 ---
 
-## ✨ Featured Projects  
 ## ✨ Featured Projects
 
-👉 **[Excuse of the Day](https://tharit.dev/excuse-for-today)**  
+👉 **[Excuse of the Day](https://excuse-of-the-day.tharit.dev/)**  
 เว็บสุ่มข้ออ้างสุดเนียนปั่นๆ
 เหมาะกับทุกสถานการณ์ทั้งเบี้ยวนัด ลางาน และตื่นสาย 
 
-👉 **[Bill Share](https://tharit.dev/bill-share)**  
+👉 **[Bill Share](https://www.tharit.dev/billshare)**  
 เว็บหารบิลอาหารแบบง่าย ๆ สำหรับกลุ่มเพื่อน 🍱👥  
 กดเลือกเมนู – เลือกคน – ใส่เมนู ใส่ราคา - เสร็จเลย! 
 ปล. มีสรุปยอดให้ จะได้หารลงตัว
@@ -74,7 +73,7 @@ Landing Page รวมโปรเจกต์สนุก ๆ
 ## 📫 Get In Touch  
 - 🔗 [LinkedIn]  *(coming soon!)*  
 - ✉️ Email: gorgegld123@gmail.com
-- 🌐 [Portfolio](https://yourportfolio.com) *(coming soon!)*  
+- 🌐 [Portfolio](https://tharit.dev) *(coming soon!)*  
 
 
 ---
